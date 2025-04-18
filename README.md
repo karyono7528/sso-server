@@ -23,6 +23,6 @@ A robust Single Sign-On (SSO) server built with Next.js, Prisma, and NextAuth.js
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/sso-server.git
+git clone https://github.com/karyono7528/sso-server.git
 cd sso-server
 ```
